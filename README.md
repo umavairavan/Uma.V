@@ -1,5 +1,4 @@
-# Uma.V
-# RetailStore
+#RetailStore
 I have made this program simple using a single class.
 Just Run the Retail.java file.
 User has to enter details according to the program demands.
